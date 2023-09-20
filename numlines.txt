@@ -1,0 +1,59 @@
+9/11/2023
+cpp#	hpp#	total
+816	315	1131
+
+176| Army.cpp
+ 40| Army.hpp
+ 59| Cannon.cpp
+ 32| Cannon.hpp
+ 62| Explosion.cpp
+ 22| Explosion.hpp
+182| Game.cpp
+ 51| Game.hpp
+ 37| Invader.cpp
+ 28| Invader.hpp
+ 55| Laser.cpp
+ 35| Laser.hpp
+ 19| Shield.cpp
+ 20| Shield.hpp	
+ 41| SurfaceManager.cpp
+ 24| SurfaceManager.hpp
+ 27| UFO.cpp
+ 24| UFO.hpp
+129| UI.cpp
+ 26| UI.hpp
+ 13| Utility.hpp
+ 29| main.cpp
+
+
+
+9/20/2023 (complete)
+cpp#	hpp#	total
+1408	444	1852
+
+280| Army.cpp
+ 49| Army.hpp
+ 88| Cannon.cpp
+ 38| Cannon.hpp
+ 13| DestroyedPixels.cpp
+ 21| DestroyedPixels.hpp
+ 53| Explosion.cpp
+ 26| Explosion.hpp
+356| Game.cpp
+ 77| Game.hpp
+ 46| Invader.cpp
+ 30| Invader.hpp
+ 67| Laser.cpp
+ 37| Laser.hpp
+ 95| Menu.cpp
+ 33| Menu.hpp
+ 20| Shield.cpp
+ 20| Shield.hpp	
+ 48| SurfaceManager.cpp
+ 24| SurfaceManager.hpp
+ 53| UFO.cpp
+ 30| UFO.hpp
+259| UI.cpp
+ 45| UI.hpp
+ 14| Utility.hpp
+ 30| main.cpp
