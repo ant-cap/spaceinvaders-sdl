@@ -8,6 +8,6 @@ https://github.com/ant-cap/spaceinvaders-sdl/assets/61441638/6edaf7dd-79b2-40a1-
 
 # Controls
 
-**Move**: Left Arrow and Right Arrow keys
+**Move**: Left Arrow and Right Arrow
 
 **Shoot**: Space
